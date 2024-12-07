@@ -8,7 +8,6 @@
   <sup><b>We are not affiliated with Steam or Scrap.TF in any way!</b> This project is run by community volunteers.
 </p>
 <h3 align="center">
-  <p>ATTENTION: Steam Desktop Authenticator is no longer supported and will not receive any more updates.</br> You should only use Steam's official mobile app to login to your account. Using SDA or any other tool is dangerous and puts your account at risk.</p>
   <p>WARNING: Recently there have been fake versions of SDA floating around that will steal your Steam account. Never download SDA from any place other than this github repo!</p>
 </h3>
 <h3 align="center" style="margin-bottom:0">
